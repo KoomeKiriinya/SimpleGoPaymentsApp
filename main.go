@@ -12,7 +12,6 @@ import (
 	"os"
 	"strconv"
 	"time"
-
 	"github.com/fatih/structs"
 	"github.com/gorilla/mux"
 )
